@@ -30,6 +30,7 @@ Before you can start using RFCGPT, you'll need to set up your environment:
 - **Protocol Insights**: Gain deep insights into a wide range of network protocols.
 - **Fast Search**: Quick search functionality that understands the context of RFCs.
 - **Documentation Support**: Generate parts of your documentation based on RFC data.
+- **Network Packet Construction with PTE (Protocol Test Engine): Utilize PTE to create and send network packets for various protocols, easing your testing processes.
 
 ## Contributing
 
