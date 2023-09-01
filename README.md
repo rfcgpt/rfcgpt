@@ -20,7 +20,7 @@ Welcome to the **RFCGPT** repository, a burgeoning community focused on the vert
 
 Before you can start using RFCGPT, you'll need to set up your environment:
 
-1. Clone the repository: `git clone https://github.com/[YourUsername]/rfcgpt.git`
+1. Clone the repository: `git clone https://github.com/rfcgpt/rfcgpt.git`
 2. Navigate into the project directory: `cd rfcgpt`
 3. Install dependencies: `npm install` or `yarn install`
 4. Run the application: `npm start` or `yarn start`
